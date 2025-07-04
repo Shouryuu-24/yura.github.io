@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import Navbar from "./components/navbar.jsx";
 
 const Navbar = () => {
   const [active, setActive] = useState(false);
